@@ -1,2 +1,2 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-Then someone made a remote change.
+Add a second line locally.
